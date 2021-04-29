@@ -43,7 +43,7 @@ multidict==4.7.5
 numpy==1.18.1
 packaging==20.3
 parso==0.6.0
-Pillow==7.0.0
+Pillow==8.1.1
 pluggy==0.13.1
 py==1.8.1
 pycodestyle==2.5.0
